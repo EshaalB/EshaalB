@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/eshaaldev" target="blank"><img src="https://img.shields.io/twitter/follow/eshaaldev?logo=twitter&style=for-the-badge" alt="eshaaldev" /></a> </p>
 
-- 🔭 I’m currently working on **candy crush**
+- 🔭 I’m currently working on **my page**
 
 - 🌱 I’m currently learning **React and C++**
 
