@@ -1,13 +1,15 @@
-<h1 align="center">Hello👋, I'm Eshaal Rehmatullah</h1>
-<h3 align="center">A problem solving frontend developer and SEO expert from Pakistan</h3>
+ # 💫 About Me:
+Hi, I’m Eshaal Rehmatullah — a frontend web developer based in Lahore, Pakistan.
+
+I create fast, accessible, and visually engaging websites using HTML, CSS, JavaScript, and React. I'm passionate about building thoughtful user experiences and sharing my knowledge through tech content and personal projects.
+
+Currently pursuing a BS in Computer Science, I enjoy blending design with logic to bring creative ideas to life—especially in projects like my mood-tracking journaling app.
+
+Fun fact: I play video games in my spare time.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalb&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshaalb" alt="eshaalb" /></a> </p>
-
- # 💫 About Me:
-🔭 I’m currently working on a bunch of web dev projects<br><br>🌱 I’m currently learning full stack <br><br>💬 Ask me about Front end Web Development<br><br>📫 How to reach me eshaalrehamat@gmail.com<br><br>⚡ Fun fact I somehow have a cool head when fixing errors
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshaaldev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshaaldev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshaalrehamat@gmail.com) 
