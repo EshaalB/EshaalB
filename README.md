@@ -1,9 +1,9 @@
  # 💫About Me
-Hi, I’m Eshaal Rehmatullah — a frontend web developer based in Lahore, Pakistan.
+Hi, I’m Eshaal Rehmatullah — a frontend web developer/designer based in Lahore, Pakistan.
 
-I create fast, accessible, and visually engaging websites using HTML, CSS, JavaScript, and React. I'm passionate about building thoughtful user experiences and sharing my knowledge through tech content and personal projects.
+I specialize in building modern, high-performance web interfaces using React.js, Tailwind CSS, WordPress, and advanced JavaScript. From dynamic dashboards to gamified user experiences, I bring both design precision and development depth to every project.
 
-Currently pursuing a BS in Computer Science, I enjoy blending design with logic to bring creative ideas to life—especially in projects like my mood-tracking journaling app.
+Currently pursuing a BS in Computer Science, I'm also working on multiple personal projects and teaching full stack on Instagram.
 
 Fun fact: I play video games in my spare time.
 
