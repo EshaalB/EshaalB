@@ -23,8 +23,7 @@ Fun fact: I play video games in my spare time.
 ![](https://nirzak-streak-stats.vercel.app/?user=EshaalB&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EshaalB&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EshaalB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+ 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
