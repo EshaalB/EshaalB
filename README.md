@@ -1,3 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalb&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalb" /> </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EshaalB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+ 
  # 🐥 About Me
 Hi, I’m Eshaal Rehmatullah — a frontend web developer/designer based in Lahore, Pakistan.
 
@@ -6,11 +11,6 @@ I specialize in building modern, high-performance web interfaces using React.js,
 Currently pursuing a BS in Computer Science, I'm also working on multiple personal projects and teaching full stack on Instagram.
 
 Fun fact: I play video games in my spare time.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalb&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalb" /> </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EshaalB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshaaldev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshaaldev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshaalrehamat@gmail.com) 
