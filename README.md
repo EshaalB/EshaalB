@@ -14,8 +14,7 @@
 
 <br/><br/>
 
-<!-- TODO: replace # with your real portfolio URL -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -34,11 +33,11 @@
 <!-- ====================== ABOUT ====================== -->
 ## About me
 
-I am Eshaal Rehmatullah, a frontend engineer and designer based in Lahore, Pakistan, currently pursuing a BS in Computer Science. I build modern, high performance web interfaces with React, Next.js, Tailwind CSS, and advanced JavaScript, bringing both design precision and engineering depth to every product I ship.
+I am Eshaal Rehmatullah, a frontend web developer and designer based in Lahore, Pakistan. I build modern, high performance web interfaces using React, Next.js, Tailwind CSS, WordPress, and advanced JavaScript, bringing both design precision and development depth to every project.
 
-My work spans dynamic dashboards, gamified user experiences, and production WordPress builds. I care about clean architecture on the frontend, thoughtful UI systems, and the small interaction details that make products feel premium. Alongside building, I teach full stack development on Instagram, which keeps my fundamentals sharp and my explanations clear.
+My work ranges from dynamic dashboards to gamified user experiences. I care about clean component architecture, thoughtful UI systems, and the small interaction details that make a product feel premium. Currently pursuing a BS in Computer Science, I also teach full stack development on Instagram, which keeps my fundamentals sharp and my explanations clear.
 
-I think like a product engineer: ship fast, keep the code clean, and never lose sight of the person using the thing.
+I think like a product engineer: ship fast, keep the code clean, and never lose sight of the person using the thing. When I am not building, you will probably find me playing video games.
 
 **Open to**
 - Frontend and full stack engineering roles
@@ -65,100 +64,17 @@ I think like a product engineer: ship fast, keep the code clean, and never lose 
 
 **Cloud, DevOps and tooling**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,netlify,vercel,bash,powershell,figma,photoshop&theme=dark)](https://skillicons.dev)
-
----
-
-<!-- ====================== AI / ML ====================== -->
-## AI and ML focus
-
-<!-- TODO: this section was requested by the prompt. Fill only with what is TRUE for you,
-     or delete the whole section. Recruiters check these. Empty rows below are starters. -->
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| Prompt engineering and LLM apps | Intermediate | Building AI powered web features and tooling |
-| Data handling in JS / Python | Intermediate | Cleaning, transforming, and visualizing data |
-| `TODO add real domain` | `TODO` | `TODO` |
-
----
-
-<!-- ====================== FEATURED PROJECTS ====================== -->
-## Featured projects
-
-<!-- TODO: swap each block for a real repo. Duplicate the block per project. -->
-
-<details>
-<summary><b>Project name one</b></summary>
-
-<br/>
-
-Short professional description of what the project does and the problem it solves.
-
-| Attribute | Detail |
-| :--- | :--- |
-| Stack | React, Tailwind, Node, MongoDB |
-| Scale | `TODO users / requests` |
-| Performance | `TODO Lighthouse / load metric` |
-| Security | `TODO auth / validation approach` |
-| Impact | `TODO outcome` |
-| Repository | [View repo](https://github.com/EshaalB) |
-
-A paragraph explaining the engineering decisions, what you owned, and why the build matters.
-
-</details>
-
-<details>
-<summary><b>Project name two</b></summary>
-
-<br/>
-
-Short professional description of what the project does and the problem it solves.
-
-| Attribute | Detail |
-| :--- | :--- |
-| Stack | Next.js, TypeScript, Firebase |
-| Scale | `TODO` |
-| Performance | `TODO` |
-| Security | `TODO` |
-| Impact | `TODO` |
-| Repository | [View repo](https://github.com/EshaalB) |
-
-A paragraph explaining the engineering decisions, what you owned, and why the build matters.
-
-</details>
-
-<details>
-<summary><b>Project name three</b></summary>
-
-<br/>
-
-Short professional description of what the project does and the problem it solves.
-
-| Attribute | Detail |
-| :--- | :--- |
-| Stack | `TODO` |
-| Scale | `TODO` |
-| Performance | `TODO` |
-| Security | `TODO` |
-| Impact | `TODO` |
-| Repository | [View repo](https://github.com/EshaalB) |
-
-A paragraph explaining the engineering decisions, what you owned, and why the build matters.
-
-</details>
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,netlify,vercel,bash,powershell,figma,ps&theme=dark)](https://skillicons.dev)
 
 ---
 
 <!-- ====================== EXPERIENCE ====================== -->
 ## Experience
 
-<!-- TODO: replace with real roles, or list your Instagram teaching and freelance work honestly. -->
-
 **Full stack instructor** — Independent (Instagram: @eshaaldev)
 `Date range`
 
-Teaching full stack web development to a growing audience, breaking down React, JavaScript, and backend fundamentals into clear lessons.
+Teaching full stack web development to a growing audience, breaking down React, JavaScript, and backend fundamentals into clear, structured lessons.
 
 - Produce structured content on frontend and full stack topics
 - Mentor learners through real build questions and code reviews
@@ -168,65 +84,16 @@ Teaching full stack web development to a growing audience, breaking down React, 
 
 <br/>
 
-**Frontend developer / designer** — Freelance
+**Frontend developer and designer** — Freelance
 `Date range`
 
-Designing and building modern, responsive web interfaces for clients across dashboards, landing pages, and WordPress sites.
+Designing and building modern, responsive web interfaces for clients, from dashboards and landing pages to production WordPress sites.
 
 - Owned UI design and frontend implementation end to end
 - Built reusable component systems with React and Tailwind
-- Delivered production WordPress builds
+- Delivered and maintained production WordPress builds
 
-`React` `Tailwind` `WordPress` `Figma`
-
----
-
-<!-- ====================== ACHIEVEMENTS ====================== -->
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| `TODO recognition` | `TODO detail` |
-| `TODO recognition` | `TODO detail` |
-
-</div>
-
----
-
-<!-- ====================== CERTIFICATIONS ====================== -->
-## Certifications
-
-<!-- TODO: keep ONLY the providers you actually have certs from. Delete the rest. -->
-
-**AWS**
-
-`TODO badge or remove`
-
-**Oracle**
-
-`TODO badge or remove`
-
-**NPTEL**
-
-`TODO badge or remove`
-
-**Cisco**
-
-`TODO badge or remove`
-
----
-
-<!-- ====================== CODING PROFILES ====================== -->
-## Coding profiles
-
-<!-- TODO: replace usernames or remove the platforms you do not use. -->
-
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+`React` `Next.js` `Tailwind` `WordPress` `Figma`
 
 ---
 
@@ -291,8 +158,9 @@ learning:
   - TypeScript at scale
 building:
   - Gamified dashboards and UI systems
-exploring:
-  - AI powered web experiences
+  - Production WordPress and Next.js sites
+teaching:
+  - Full stack development on Instagram
 open_to:
   - Frontend and full stack roles
   - Freelance web and design projects
@@ -308,8 +176,8 @@ open_to:
 <a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- TODO: real portfolio URL -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
