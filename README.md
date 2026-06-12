@@ -146,7 +146,7 @@ Teaching full stack web development through structured, production-focused conte
 
 Building production-ready websites, storefronts, and UI systems for clients across industries.
 
-- Developed responsive web applications using React and Next.js
+- Developed responsive SEO based web applications using React and Next.js
 - Built and customized Shopify storefronts with Liquid and Storefront API
 - Designed scalable UI systems in Figma, implemented in Tailwind CSS
 - Delivered and maintained WordPress and WooCommerce sites with custom themes
