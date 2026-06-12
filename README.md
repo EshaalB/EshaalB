@@ -97,22 +97,14 @@ My work spans **custom React applications**, **Shopify headless storefronts**, *
 <summary><b>⟡ CMS & E-Commerce</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![Shopify Liquid](https://img.shields.io/badge/Liquid-8DB543?style=flat-square&logo=shopify&logoColor=white)
-![Hydrogen](https://img.shields.io/badge/Hydrogen-1A1F4B?style=flat-square&logo=shopify&logoColor=F472B6)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=wordpress,shopify,liquid&theme=dark" />
 </details>
 
 <details open>
 <summary><b>⟡ Cloud, DevOps & Tooling</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,bash,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,bash,postman,powershell&theme=dark" />
 
 </details>
 
