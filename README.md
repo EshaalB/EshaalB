@@ -1,228 +1,384 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2C5A,70:5C6FD6,100:F0A6C7&height=260&section=header&text=Eshaal%20Rehmatullah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=58&descSize=17&descColor=C8D0FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1A1040,50:2D1B69,75:4C3BCF,100:7C3AED&height=280&section=header&text=Eshaal%20Rehmatullah&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20UI%20Designer&descAlignY=56&descSize=18&descColor=C4B5FD" width="100%" />
 
 </div>
 
 <div align="center">
 
 <a href="https://github.com/EshaalB">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F0A6C7&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+web+apps;React+%7C+Next.js+%7C+Tailwind+%7C+Node.js;Shopify+%7C+WordPress+%7C+Figma;Design+precision+meets+engineering;Open+to+Frontend+%26+Full+Stack+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&height=48&lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Shopify+%7C+WordPress+%7C+Headless+Commerce;UI+Design+Systems+%7C+Component+Architecture;Full+Stack+Instructor+%40eshaaldev" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BS-Computer%20Science-5C6FD6?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/BS-Computer%20Science-4C3BCF?style=for-the-badge&logo=bookstack&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/-Lahore%2C%20Pakistan-1F2C5A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lahore-Pakistan-2D1B69?style=for-the-badge&logo=googlemaps&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-28A745?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-6D28D9?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 <br/><br/>
 
-<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LinkedIn-4C3BCF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F2C5A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Email-2D1B69?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-1A1040?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=EshaalB&label=Profile+Views&color=5C6FD6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=EshaalB&label=Profile+Views&color=4C3BCF&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/EshaalB?label=Followers&style=flat-square&color=F0A6C7" />
+<img src="https://img.shields.io/github/followers/EshaalB?label=Followers&style=flat-square&color=7C3AED" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/EshaalB?label=Stars&style=flat-square&color=2D1B69" />
 
 </div>
 
---
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+---
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## About Me
 
-I'm a **Frontend-focused Full Stack Developer** from Lahore, Pakistan — building fast, scalable web experiences that are as thoughtful in design as they are in code.
+Frontend-focused Full Stack Developer from Lahore, Pakistan — engineering fast, scalable, and visually precise web experiences from the ground up.
 
-I specialize in **React**, **Next.js**, and **Tailwind CSS**, with a sharp eye for UI systems, reusable component architecture, and performance optimization. I bring the same care to **Shopify storefronts** and **WordPress builds** as I do to custom React apps.
+I specialize in **React**, **Next.js**, and **TypeScript**, with deep expertise in UI systems, reusable component architecture, and production-grade performance. I approach every build with a product mindset — balancing clean engineering with exceptional user experience.
 
-Beyond building, I **teach full stack development** — breaking down real-world projects into structured, accessible learning paths.
+My work spans **custom React applications**, **Shopify headless storefronts**, **WordPress/WooCommerce ecosystems**, and **design systems built in Figma** and implemented in Tailwind. I close the gap between design and engineering — and teach others to do the same.
 
 <br/>
 
-** Available for:**
+**Open to:**
 
--  Frontend / Full Stack Engineering roles
--  Freelance web development & Shopify builds
--  UI design systems & component libraries
--  Open source collaboration
+- Frontend / Full Stack Engineering roles
+- Shopify & headless commerce projects
+- UI design system and component library work
+- Freelance web development and consulting
+- Open source collaboration
 
---
-## ️ Tech Stack
+<br/>
+
+---
+
+## Tech Stack
 
 <details open>
-<summary><b> Languages</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
 
 </details>
 
 <details open>
-<summary><b> Frontend & UI</b></summary>
+<summary><b>Frontend & UI</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,framermotion" />
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0F0F0F?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless%20UI-6D28D9?style=flat-square&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E74?style=flat-square&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b> Backend & Database</b></summary>
+<summary><b>Backend & Databases</b></summary>
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b> CMS & E-Commerce</b></summary>
+<summary><b>CMS & E-Commerce</b></summary>
 <br/>
 
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Shopify Liquid](https://img.shields.io/badge/Liquid%20Templates-8DB543?style=for-the-badge&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-8DB543?style=flat-square&logo=shopify&logoColor=white)
+![Shopify Hydrogen](https://img.shields.io/badge/Hydrogen-4C3BCF?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b> Design & Tools</b></summary>
+<summary><b>Cloud, DevOps & Tooling</b></summary>
 <br/>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,bash" />
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 </details>
 
---
-##  Experience
+---
+
+## Featured Projects
+
+<details>
+<summary><b>Storefront — Headless Shopify Commerce Platform</b></summary>
+
+<br/>
+
+A fully custom headless Shopify storefront built with Next.js and the Storefront API. Engineered for performance, conversion, and brand consistency — replacing the default Shopify theme layer entirely with a custom React frontend.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Next.js, TypeScript, Tailwind CSS, Shopify Storefront API, Hydrogen-compatible |
+| **Scale** | Multi-collection catalog, dynamic product pages, cart & checkout flow |
+| **Performance** | Static generation with ISR, image optimization, sub-2s LCP |
+| **Security** | Shopify-managed payments, scoped API tokens, sanitized inputs |
+| **Impact** | Improved storefront performance and design system consistency for client |
+| **Repository** | [github.com/EshaalB](https://github.com/EshaalB) |
+
+The architecture decouples the Shopify backend from the frontend entirely, enabling full design freedom while retaining Shopify's commerce infrastructure. Liquid templating was replaced with a typed React component tree consuming the GraphQL Storefront API.
+
+</details>
+
+<details>
+<summary><b>DesignSystem — Tailwind UI Component Library</b></summary>
+
+<br/>
+
+A production-grade UI component library built on Tailwind CSS, Radix UI primitives, and shadcn/ui patterns. Designed for reuse across multiple client projects with a consistent design language and accessibility baked in by default.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, TypeScript, Tailwind CSS, Radix UI, shadcn/ui, Storybook |
+| **Scale** | 40+ components covering layout, forms, navigation, feedback, and data display |
+| **Performance** | Zero runtime CSS-in-JS, tree-shaken output, minimal bundle impact |
+| **Security** | Accessible by default, keyboard navigable, ARIA compliant |
+| **Impact** | Accelerated delivery across 3+ client projects |
+| **Repository** | [github.com/EshaalB](https://github.com/EshaalB) |
+
+Each component is built against a strict token system — spacing, color, radius, and typography are derived from a single Tailwind config. The library is documented in Storybook and distributed as a local package across projects.
+
+</details>
+
+<details>
+<summary><b>FullStack App — React + Node.js Production Application</b></summary>
+
+<br/>
+
+A full stack web application with a React frontend and Node.js/Express backend. Features JWT authentication, MongoDB persistence, protected routes, and a responsive UI built with Tailwind CSS.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, Node.js, Express, MongoDB, Tailwind CSS, JWT |
+| **Scale** | Multi-user, role-based access control, real-time UI updates |
+| **Performance** | Optimistic UI, lazy loading, debounced API calls |
+| **Security** | JWT auth, bcrypt hashing, input validation, rate limiting |
+| **Impact** | End-to-end delivery from schema design to deployed frontend |
+| **Repository** | [github.com/EshaalB](https://github.com/EshaalB) |
+
+Built to production standards — environment-specific configs, error boundaries, loading states, and a RESTful API designed around resource ownership and clean separation of concerns.
+
+</details>
+
+---
+
+## Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-###  Full Stack Instructor
-**Independent · @eshaaldev**
-`Jan 2024 – Present`
+### Full Stack Instructor
+**Independent — @eshaaldev**
+`January 2024 — Present`
 
-Teaching full stack development through structured, real-world focused content.
+Teaching full stack web development through structured, production-focused content to a growing audience of developers.
 
--  Designed step-by-step learning paths from zero to production
--  Broke down frontend + backend architecture for beginners
--  Helped learners build, debug, and ship real projects
--  Created consistent educational content across platforms
+- Designed end-to-end learning paths from fundamentals to deployment
+- Broke down React, Node.js, and database architecture with real project context
+- Helped learners debug, ship, and iterate on production-level projects
+- Published consistent educational content across Instagram and related platforms
 
-`React` `JavaScript` `Node.js` `Teaching`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Teaching](https://img.shields.io/badge/Curriculum%20Design-4C3BCF?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-###  Frontend Developer & UI Designer
+### Frontend Developer & UI Designer
 **Freelance**
-`July 2024 – Present`
+`July 2024 — Present`
 
-Building production-ready websites and UI systems for clients.
+Building production-ready websites, storefronts, and UI systems for clients across industries.
 
--  Developed responsive apps with React and Next.js
--  Built Shopify storefronts with custom Liquid templates
--  Designed scalable UI systems with Tailwind & Figma
--  Built and maintained WordPress/WooCommerce sites
+- Developed responsive web applications using React and Next.js
+- Built and customized Shopify storefronts with Liquid templating and Storefront API
+- Designed scalable UI systems in Figma, implemented in Tailwind CSS
+- Delivered and maintained WordPress and WooCommerce sites with custom themes
 
-`React` `Next.js` `Shopify` `Tailwind` `WordPress` `Figma`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </td>
 </tr>
 </table>
 
---
-##  GitHub Stats
+---
+
+## Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EshaalB&show_icons=true&count_private=true&hide_border=true&title_color=F0A6C7&icon_color=5C6FD6&text_color=C9D1D9&bg_color=0D1117" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaalB&layout=compact&hide_border=true&title_color=F0A6C7&text_color=C9D1D9&bg_color=0D1117&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=EshaalB&hide_border=true&background=0D1117&stroke=5C6FD6&ring=F0A6C7&fire=F0A6C7&currStreakLabel=C8D0FF&sideLabels=C8D0FF&dates=8B949E" height="180"/>
+| Recognition | Details |
+|---|---|
+| Full Stack Educator | Building and growing a developer education presence from scratch on Instagram |
+| Production Deployments | Multiple client projects live on Vercel, Netlify, and Shopify infrastructure |
+| Open Source Presence | Active GitHub contributor with public repositories and component work |
+| UI Design Systems | Delivered reusable Tailwind-based component libraries across multiple projects |
+| Shopify Commerce | Delivered headless and Liquid-based storefronts for e-commerce clients |
 
 </div>
 
---
-##  Contribution Graph
+---
+
+## Certifications
+
+<div align="center">
+
+**Meta**
+
+![Meta Front-End Developer](https://img.shields.io/badge/Meta-Frontend%20Developer%20Certificate-4C3BCF?style=for-the-badge&logo=meta&logoColor=white)
+
+**freeCodeCamp**
+
+![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![JavaScript Algorithms](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
+**Shopify**
+
+![Shopify Partner](https://img.shields.io/badge/Shopify-Partner%20Certified-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+
+**LinkedIn Learning**
+
+![React Certification](https://img.shields.io/badge/LinkedIn%20Learning-React%20Essential%20Training-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/EshaalB"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/EshaalB"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/EshaalB"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+&nbsp;
+<a href="https://www.codechef.com/users/EshaalB"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EshaalB&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=4C3BCF&text_color=C4B5FD&bg_color=0D1117" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaalB&layout=compact&hide_border=true&title_color=7C3AED&text_color=C4B5FD&bg_color=0D1117&langs_count=8" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=EshaalB&hide_border=true&background=0D1117&stroke=4C3BCF&ring=7C3AED&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6B7280" height="175" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EshaalB&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EshaalB&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=4C3BCF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg" width="100%">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg" width="100%" />
 </picture>
 
 </div>
 
---
-##  Currently
+---
+
+## Current Focus
 
 ```yaml
 learning:
-  - Advanced React patterns & Server Components
-  - TypeScript at scale
-  - Shopify Hydrogen (headless commerce)
+  - Advanced React patterns and Server Components
+  - TypeScript at scale across monorepos
+  - Shopify Hydrogen and headless commerce architecture
 
 building:
-  - Scalable UI component libraries
+  - Production UI component libraries
   - Headless Shopify storefronts
-  - Production full stack applications
+  - Full stack applications with Next.js and Supabase
 
-teaching:
-  - Full stack development content (@eshaaldev)
+exploring:
+  - Edge rendering and React Server Components
+  - Design token systems and multi-brand theming
 
 open_to:
-  - Frontend / Full Stack engineering roles
-  - Shopify & e-commerce projects
-  - Freelance UI/UX & web development
+  - Frontend and Full Stack engineering roles
+  - Shopify and e-commerce development
+  - Freelance UI design and web development
+  - Open source collaboration
 ```
 
---
-##  Let's Connect
+---
+
+## Connect
 
 <div align="center">
 
@@ -232,18 +388,20 @@ open_to:
 &nbsp;
 <a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F2C5A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
 <a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="68%" />
 
 <br/><br/>
 
-> *Build clean. Think sharp. Ship fast. Stay consistent.*
+*Build clean. Think sharp. Ship fast. Stay consistent.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A6C7,50:5C6FD6,100:0D1117&height=140&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C3BCF,100:0D1117&height=140&section=footer" width="100%" />
 
 </div>
