@@ -1,47 +1,325 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalb&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalb" /> </p>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EshaalB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
- 
- # 🐥 About Me
-Hi, I’m Eshaal Rehmatullah — a frontend web developer/designer based in Lahore, Pakistan.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6366F1,100:F9A8D4&height=220&section=header&text=Eshaal%20Rehmatullah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Designer&descAlignY=58&descSize=18&descColor=E0E7FF" width="100%" />
 
-I specialize in building modern, high-performance web interfaces using React.js, Tailwind CSS, WordPress, and advanced JavaScript. From dynamic dashboards to gamified user experiences, I bring both design precision and development depth to every project.
+<a href="https://github.com/EshaalB">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=Building+modern+web+interfaces;React+%7C+Next.js+%7C+Tailwind+%7C+Node;Design+precision+meets+dev+depth;Teaching+full+stack+on+Instagram" alt="Typing SVG" />
+</a>
 
-Currently pursuing a BS in Computer Science, I'm also working on multiple personal projects and teaching full stack on Instagram.
+<br/>
 
-Fun fact: I play video games in my spare time.
+<img src="https://img.shields.io/badge/BS-Computer%20Science-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Lahore-Pakistan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshaaldev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshaaldev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshaalrehamat@gmail.com) 
+<br/><br/>
 
+<!-- TODO: replace # with your real portfolio URL -->
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-# 💻 Languages :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
-# 💻 Hosting :
+<br/><br/>
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=EshaalB&label=Profile%20Views&color=6366F1&style=flat-square" />
+<img src="https://img.shields.io/github/followers/EshaalB?label=Followers&style=flat-square&color=8B5CF6" />
+<img src="https://img.shields.io/github/stars/EshaalB?label=Stars&style=flat-square&color=F9A8D4" />
 
-# 💻 Frameworks (Frontend):
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-# 💻 Frameworks (Backend):
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</div>
 
-# 💻 Database  :
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
-# 💻 Design  :
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-
-# 💻 Tools  :
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 🏆GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EshaalB&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EshaalB&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
- 
 ---
-[![](https://visitcount.itsvg.in/api?id=EshaalB&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 
+<!-- ====================== ABOUT ====================== -->
+## About me
+
+I am Eshaal Rehmatullah, a frontend engineer and designer based in Lahore, Pakistan, currently pursuing a BS in Computer Science. I build modern, high performance web interfaces with React, Next.js, Tailwind CSS, and advanced JavaScript, bringing both design precision and engineering depth to every product I ship.
+
+My work spans dynamic dashboards, gamified user experiences, and production WordPress builds. I care about clean architecture on the frontend, thoughtful UI systems, and the small interaction details that make products feel premium. Alongside building, I teach full stack development on Instagram, which keeps my fundamentals sharp and my explanations clear.
+
+I think like a product engineer: ship fast, keep the code clean, and never lose sight of the person using the thing.
+
+**Open to**
+- Frontend and full stack engineering roles
+- Freelance and contract web projects
+- UI design and design systems work
+- Collaboration on open source
+
+---
+
+<!-- ====================== TECH STACK ====================== -->
+## Tech stack
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,c,cpp,css,html&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,jquery,wordpress&theme=dark)](https://skillicons.dev)
+
+**Backend and databases**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps and tooling**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,netlify,vercel,bash,powershell,figma,photoshop&theme=dark)](https://skillicons.dev)
+
+---
+
+<!-- ====================== AI / ML ====================== -->
+## AI and ML focus
+
+<!-- TODO: this section was requested by the prompt. Fill only with what is TRUE for you,
+     or delete the whole section. Recruiters check these. Empty rows below are starters. -->
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| Prompt engineering and LLM apps | Intermediate | Building AI powered web features and tooling |
+| Data handling in JS / Python | Intermediate | Cleaning, transforming, and visualizing data |
+| `TODO add real domain` | `TODO` | `TODO` |
+
+---
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## Featured projects
+
+<!-- TODO: swap each block for a real repo. Duplicate the block per project. -->
+
+<details>
+<summary><b>Project name one</b></summary>
+
+<br/>
+
+Short professional description of what the project does and the problem it solves.
+
+| Attribute | Detail |
+| :--- | :--- |
+| Stack | React, Tailwind, Node, MongoDB |
+| Scale | `TODO users / requests` |
+| Performance | `TODO Lighthouse / load metric` |
+| Security | `TODO auth / validation approach` |
+| Impact | `TODO outcome` |
+| Repository | [View repo](https://github.com/EshaalB) |
+
+A paragraph explaining the engineering decisions, what you owned, and why the build matters.
+
+</details>
+
+<details>
+<summary><b>Project name two</b></summary>
+
+<br/>
+
+Short professional description of what the project does and the problem it solves.
+
+| Attribute | Detail |
+| :--- | :--- |
+| Stack | Next.js, TypeScript, Firebase |
+| Scale | `TODO` |
+| Performance | `TODO` |
+| Security | `TODO` |
+| Impact | `TODO` |
+| Repository | [View repo](https://github.com/EshaalB) |
+
+A paragraph explaining the engineering decisions, what you owned, and why the build matters.
+
+</details>
+
+<details>
+<summary><b>Project name three</b></summary>
+
+<br/>
+
+Short professional description of what the project does and the problem it solves.
+
+| Attribute | Detail |
+| :--- | :--- |
+| Stack | `TODO` |
+| Scale | `TODO` |
+| Performance | `TODO` |
+| Security | `TODO` |
+| Impact | `TODO` |
+| Repository | [View repo](https://github.com/EshaalB) |
+
+A paragraph explaining the engineering decisions, what you owned, and why the build matters.
+
+</details>
+
+---
+
+<!-- ====================== EXPERIENCE ====================== -->
+## Experience
+
+<!-- TODO: replace with real roles, or list your Instagram teaching and freelance work honestly. -->
+
+**Full stack instructor** — Independent (Instagram: @eshaaldev)
+`Date range`
+
+Teaching full stack web development to a growing audience, breaking down React, JavaScript, and backend fundamentals into clear lessons.
+
+- Produce structured content on frontend and full stack topics
+- Mentor learners through real build questions and code reviews
+- Maintain consistency and clarity across every lesson
+
+`JavaScript` `React` `Teaching` `Communication`
+
+<br/>
+
+**Frontend developer / designer** — Freelance
+`Date range`
+
+Designing and building modern, responsive web interfaces for clients across dashboards, landing pages, and WordPress sites.
+
+- Owned UI design and frontend implementation end to end
+- Built reusable component systems with React and Tailwind
+- Delivered production WordPress builds
+
+`React` `Tailwind` `WordPress` `Figma`
+
+---
+
+<!-- ====================== ACHIEVEMENTS ====================== -->
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| `TODO recognition` | `TODO detail` |
+| `TODO recognition` | `TODO detail` |
+
+</div>
+
+---
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+## Certifications
+
+<!-- TODO: keep ONLY the providers you actually have certs from. Delete the rest. -->
+
+**AWS**
+
+`TODO badge or remove`
+
+**Oracle**
+
+`TODO badge or remove`
+
+**NPTEL**
+
+`TODO badge or remove`
+
+**Cisco**
+
+`TODO badge or remove`
+
+---
+
+<!-- ====================== CODING PROFILES ====================== -->
+## Coding profiles
+
+<!-- TODO: replace usernames or remove the platforms you do not use. -->
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+---
+
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+## GitHub analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EshaalB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=F9A8D4&text_color=C9D1D9&bg_color=0D1117" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EshaalB&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=F9A8D4&currStreakLabel=8B5CF6" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaalB&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&langs_count=8" height="170" />
+
+</div>
+
+---
+
+<!-- ====================== TROPHIES ====================== -->
+## GitHub trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EshaalB&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
+## Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EshaalB&bg_color=0D1117&color=8B5CF6&line=6366F1&point=F9A8D4&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+## Contribution snake
+
+<!-- Requires the Platane/snk GitHub Action writing to the `output` branch.
+     Until that workflow runs, this image will be blank. -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EshaalB/EshaalB/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<!-- ====================== CURRENT FOCUS ====================== -->
+## Current focus
+
+```yaml
+learning:
+  - Advanced React patterns and performance
+  - TypeScript at scale
+building:
+  - Gamified dashboards and UI systems
+exploring:
+  - AI powered web experiences
+open_to:
+  - Frontend and full stack roles
+  - Freelance web and design projects
+```
+
+---
+
+<!-- ====================== CONNECT ====================== -->
+## Connect
+
+<div align="center">
+
+<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- TODO: real portfolio URL -->
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+---
+
+<!-- ====================== FOOTER ====================== -->
+<div align="center">
+
+<i>Design precision meets engineering depth. Build clean, ship fast, look out for the user.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:6366F1,100:1E1B4B&height=120&section=footer" width="100%" />
+
+</div>
