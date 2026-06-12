@@ -81,7 +81,7 @@ My work spans **custom React applications**, **Shopify headless storefronts**, *
 <summary><b>⟡ Frontend & UI</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,framermotion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,framermotion,electron&theme=dark" />
 
 </details>
 
@@ -97,14 +97,14 @@ My work spans **custom React applications**, **Shopify headless storefronts**, *
 <summary><b>⟡ CMS & E-Commerce</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=wordpress,shopify,liquid&theme=dark" />
+<img src="https://skillicons.dev/icons?i=wordpress,shopi&theme=dark" />
 </details>
 
 <details open>
 <summary><b>⟡ Cloud, DevOps & Tooling</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,bash,postman,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,bash,postman,powershell,linux,md,notion,npm,photoshop,visualstudio,netlify,vercel&theme=dark" />
 
 </details>
 
