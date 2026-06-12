@@ -81,7 +81,7 @@ My work spans **custom React applications**, **Shopify headless storefronts**, *
 <summary><b>⟡ Frontend & UI</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,framermotion,electron&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,electron&theme=dark" />
 
 </details>
 
@@ -97,7 +97,7 @@ My work spans **custom React applications**, **Shopify headless storefronts**, *
 <summary><b>⟡ CMS & E-Commerce</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=wordpress,shopi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 </details>
 
 <details open>
@@ -171,7 +171,7 @@ Building production-ready websites, storefronts, and UI systems for clients acro
 
 <div align="center">
 
-<a href="https://leetcode.com/EshaalB"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/eshaalrehamat"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 &nbsp;
 <a href="https://www.geeksforgeeks.org/user/EshaalB"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 &nbsp;
