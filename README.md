@@ -120,7 +120,7 @@ My work spans **custom React applications**, **Shopify headless storefronts**, *
 **Independent — @eshaaldev**
 `January 2024 — Present`
 
-Teaching full stack web development through structured, production-focused content to a growing audience of developers.
+Teaching full stack web frb through structured, production-focused content to a growing audience.
 
 - Designed end-to-end learning paths from fundamentals to deployment
 - Broke down React, Node.js, and database architecture with real project context
