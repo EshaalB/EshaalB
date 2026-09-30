@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,35:0F1C33,70:BE3E7F,100:F472B6&height=260&section=header&text=Eshaal%20Rehmatullah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Design%20Engineer&descAlignY=58&descSize=18&descColor=FBCFE8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,35:0F1C33,70:BE3E7F,100:F472B6&height=260&section=header&text=Eshaal%20Rehmatullah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%2B%20Designer&descAlignY=58&descSize=18&descColor=FBCFE8" width="100%" />
 
-<a href="https://github.com/EshaalB">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=650&height=45&lines=I+code.+I+design.+I+build.;Turning+ideas+into+interfaces.;Building+things+for+the+web." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=600&height=45&lines=I+code.+I+design.+I+build.;Making+things+for+the+web." />
 
 <br/>
-
-![Frontend](https://img.shields.io/badge/Frontend-0F1C33?style=flat-square&logo=react&logoColor=F472B6)
-![Design](https://img.shields.io/badge/Design-1A1F4B?style=flat-square&logo=figma&logoColor=FBCFE8)
-![CS](https://img.shields.io/badge/Computer_Science-BE3E7F?style=flat-square&logoColor=white)
-
-<br/><br/>
 
 <a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=vercel&logoColor=0B0F1A" /></a>
 &nbsp;
@@ -22,63 +14,37 @@
 
 </div>
 
----
+<br/>
 
-## ✦ About
+## About
 
-I'm a **developer who designs**.
+I'm a developer who likes to design what I build.
 
-I spend most of my time building for the web with **React, Next.js, TypeScript and JavaScript** — but I also care about how the things I build look, feel and behave.
+I mostly work on web projects, from figuring out the interface in **Figma** to building it with **React, Next.js, TypeScript and JavaScript**.
 
-That usually means I don't stop at the Figma file or the code. I like taking an idea from **interface → implementation → working product**.
+I like making small products, experimenting with ideas and learning by actually shipping things.
 
-Currently studying Computer Science and building projects while sharing what I learn through **@eshaaldev**.
-
----
-
-## ✦ Code × Design
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### `>_` Development
-
-React & Next.js  
-TypeScript & JavaScript  
-Node.js & Express  
-MongoDB & Supabase  
-WordPress & Shopify  
-Git & GitHub
+Currently studying **Computer Science** in Lahore, Pakistan.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,mongodb,git&theme=dark" />
+## Stack
 
-</td>
+<div align="center">
 
-<td width="45%" valign="top">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,supabase,figma,git,github,vercel&theme=dark" />
 
-### ◇ Design
+<br/><br/>
 
-UI Design  
-Design Systems  
-Prototyping  
-Responsive Design  
-Interaction Design  
-Design → Code
+<sub>
+JavaScript · TypeScript · React · Next.js · Tailwind · Node.js · Figma
+</sub>
+
+</div>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,photoshop&theme=dark" />
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ Things I've Built
+## Selected Work
 
 <table>
 <tr>
@@ -86,19 +52,18 @@ Design → Code
 
 ### EshaalTab
 
-A customizable browser new tab for organizing links, notes, tasks and everyday tools.
+A customizable new tab for keeping links, notes, tasks and everyday tools in one place.
 
-`JavaScript` `Extension` `UI`
+`Browser Extension` `JavaScript` `UI Design`
 
 </td>
-
 <td width="50%" valign="top">
 
-### Mukome
+### Clamber
 
-A personal journal built around moods, memories, habits and daily tasks.
+One of my recent builds, designed and developed from the interface to the final product.
 
-`JavaScript` `LocalStorage` `UI`
+`Frontend` `Design` `Development`
 
 </td>
 </tr>
@@ -106,70 +71,48 @@ A personal journal built around moods, memories, habits and daily tasks.
 <tr>
 <td width="50%" valign="top">
 
-### Book Genie
+### Mukome
 
-A quiz-based book recommendation experience using the Open Library API.
+A personal journal for keeping track of moods, memories, habits and daily tasks.
 
-`JavaScript` `REST API` `Frontend`
+`JavaScript` `LocalStorage` `UI Design`
 
 </td>
-
 <td width="50%" valign="top">
 
-### FurEverSafe
+### Islamic Audit
 
-An Android app connecting citizens and NGOs for animal reports, adoption and welfare.
+A project built around making Islamic self reflection and personal tracking easier to manage.
 
-`Android` `Firebase` `Product`
+`Product` `Frontend` `UI Design`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## ✦ Stack
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,supabase,figma,wordpress,git,github,vercel&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EshaalB&bg_color=0B0F1A&color=FBCFE8&line=F472B6&point=BE3E7F&area=true&hide_border=true" width="100%" />
 
 </div>
-
----
-
-## ✦ GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EshaalB&show_icons=true&hide_border=true&title_color=F472B6&icon_color=BE3E7F&text_color=CBD5E1&bg_color=0B0F1A" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaalB&layout=compact&hide_border=true&title_color=F472B6&text_color=CBD5E1&bg_color=0B0F1A&langs_count=6" height="165" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**code first. design matters.**
 
 <br/>
 
-<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-F472B6?style=for-the-badge&logo=gmail&logoColor=0B0F1A" /></a>
+## Find me here 
+
+<div align="center">
+
+<a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=F472B6" /></a>
+&nbsp;
+<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/Email-1A1F4B?style=for-the-badge&logo=gmail&logoColor=FBCFE8" /></a>
+&nbsp;
+<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=vercel&logoColor=0B0F1A" /></a>
 
 <br/><br/>
-
-<sub>React · Next.js · TypeScript · Figma</sub>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,35:BE3E7F,70:1A1F4B,100:0B0F1A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,35:BE3E7F,70:1A1F4B,100:0B0F1A&height=110&section=footer" width="100%" />
