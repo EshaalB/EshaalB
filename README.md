@@ -6,8 +6,6 @@
 <a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LINKEDIN-0F1C33?style=for-the-badge&logo=linkedin&logoColor=F472B6" /></a>
 &nbsp;
 <a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/@ESHAALDEV-BE3E7F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br/><br/>
 <code>Design Engineer</code>&nbsp;&nbsp;
 <code>CS Student</code>&nbsp;&nbsp;
 <code>Lahore, PK</code>
@@ -20,9 +18,7 @@ I build things for the web and design the interfaces they live in.
 
 Most of my work starts with an idea, moves through **Figma**, and ends up in code with **React, Next.js, TypeScript or JavaScript**. Frontend is where I spend most of my time, but I work across the stack when a project needs it.
 
-I also run **[@eshaaldev](https://instagram.com/eshaaldev)**, where I share my knowledge while designing and building.
-
-> **code first. design matters.**
+> **I also run **[@eshaaldev](https://instagram.com/eshaaldev)**, where I share my knowledge while designing and building.**
 
 ## `02 /` toolkit
 
