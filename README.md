@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LINKEDIN-0F1C33?style=for-the-badge&logo=linkedin&logoColor=F472B6" /></a>
 &nbsp;
 <a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/@ESHAALDEV-BE3E7F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<br> </br>
 <code>Design Engineer</code>&nbsp;&nbsp;
 <code>CS Student</code>&nbsp;&nbsp;
 <code>Lahore, PK</code>
