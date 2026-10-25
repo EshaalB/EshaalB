@@ -1,165 +1,97 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,35:0F1C33,68:1A1F4B,88:BE3E7F,100:F472B6&height=230&section=header&text=Eshaal%20Rehmatullah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20who%20designs.&descAlignY=58&descSize=18&descColor=FBCFE8" width="100%" />
 
-<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-F472B6?style=for-the-badge&logo=vercel&logoColor=0B0F1A" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LINKEDIN-0F1C33?style=for-the-badge&logo=linkedin&logoColor=F472B6" /></a>
-&nbsp;
-<a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/@ESHAALDEV-BE3E7F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<br> </br>
-<code>Design Engineer</code>&nbsp;&nbsp;
-<code>CS Student</code>&nbsp;&nbsp;
-<code>Lahore, PK</code>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=184175&height=160&section=header&text=Eshaal%20Rehmatullah&fontSize=38&fontColor=F9F3E2&fontAlignY=40&desc=DESIGN%20%2B%20DEVELOPMENT&descSize=14&descColor=FFA1BD&descAlignY=70" width="100%" alt="Eshaal Rehmatullah" />
+
+### Frontend Developer & Design Engineer
+
+I design interfaces, build products, and care about the details in between.
+
+[Portfolio](https://eshaal-dev.vercel.app/) · [LinkedIn](https://linkedin.com/in/eshaaldev) · [Instagram](https://instagram.com/eshaaldev)
 
 </div>
 
-## `01 /` who this ?
+---
 
-I build things for the web and design the interfaces they live in.
+### `01 /` About
 
-Most of my work starts with an idea, moves through **Figma**, and ends up in code with **React, Next.js, TypeScript or JavaScript**. Frontend is where I spend most of my time, but I work across the stack when a project needs it.
+I'm Eshaal, a Computer Science student based in Lahore, Pakistan.
 
-> **I also run **[@eshaaldev](https://instagram.com/eshaaldev)**, where I share my knowledge while designing and building.**
+I work at the intersection of **design and development**, turning ideas into interfaces that are thoughtful, functional, and enjoyable to use.
 
-## `02 /` toolkit
+My focus is frontend engineering, UI/UX, and building digital products. I enjoy taking an idea from its early stages in Figma to a working product in code.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+I also run [**@eshaaldev**](https://instagram.com/eshaaldev), where I share what I learn, design experiments, and projects I'm working on.
 
-### `>_` Main Stack
+### `02 /` Toolkit
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,figma&theme=dark" />
+**Frontend Development**
 
-</td>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,bootstrap&theme=dark" alt="Frontend technologies" />
 
-<td width="45%" valign="top">
+**Backend & Databases**
 
-### `+` Also Know
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" alt="Backend technologies" />
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,redux,sass,bootstrap,electron,mysql,firebase,supabase&theme=dark" />
+**Programming Languages**
 
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Programming languages" />
 
-<tr>
-<td width="55%" valign="top">
+**Design & Tools**
 
-### `◇` Web + Commerce
+<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,vercel,postman&theme=dark" alt="Design and development tools" />
 
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+**Web & Commerce**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" />
 
-`Shopify` · `Liquid` · `WooCommerce`  
-`Storefront API` · `SEO`
+`Shopify` · `Liquid` · `WooCommerce` · `SEO`
 
-</td>
+### `03 /` Selected Work
 
-<td width="45%" valign="top">
-
-### `✦` Design
-
-`UI Design` · `Design Systems`  
-`Responsive Design` · `Prototyping`  
-`Component Design` · `Design to Code`
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### `//` Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,netlify,postman,bash,powershell,linux,npm,notion,photoshop,md&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-## `03 /` selected work
+A selection of things I've designed and built.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✦ EshaalTab
+### EshaalTab
 
-A customizable browser new tab built around organization and personalization.
+**Browser Extension**
 
-`Browser Extension` `JavaScript` `UI Design`
+A customizable new tab experience designed to make everyday browsing more organized and personal.
 
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ Clamber
-
-A project build to make students academic load easier.
-
-`Frontend` `Development` `Design`
+`JavaScript` · `Browser Extension` · `UI Design`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### ✦ Mukome
+### StudReads
 
-A personal journal for moods, memories, habits and everyday tasks.
+**Academic Planning Tool**
 
-`JavaScript` `LocalStorage` `UI Design`
+Turn university timetable files into clear, organized schedules, directly in your browser.
 
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ Islamic Audit
-
-A personal project built around recognizing sins and how to avoid.
-
-`Frontend` `Product` `UI Design`
+`React` · `JavaScript` · `PDF.js` · `SheetJS`
 
 </td>
 </tr>
 </table>
 
-## `04 /` activity
+**[Explore more projects on GitHub →](https://github.com/EshaalB?tab=repositories)**
 
-<div align="center">
+### `04 /` Beyond the Code
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Eshaal's GitHub contribution graph"
-    src="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg"
-    width="100%"
-  />
-</picture>
-</div>
+I run [**eshaaldev**](https://instagram.com/eshaaldev), a space where I share development knowledge, design resources, experiments, and things I'm building.
 
-## `05 /` find me here 
+I'm interested in creating useful digital products, exploring new technologies, and making good design more accessible.
 
-<div align="center">
+### `05 /` Let's Connect
 
-<a href="mailto:eshaalrehamat@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1F4B?style=for-the-badge&logo=gmail&logoColor=FBCFE8" /></a>
-&nbsp;
-<a href="https://github.com/EshaalB"><img src="https://img.shields.io/badge/GITHUB-0B0F1A?style=for-the-badge&logo=github&logoColor=F472B6" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/eshaaldev"><img src="https://img.shields.io/badge/LINKEDIN-0F1C33?style=for-the-badge&logo=linkedin&logoColor=F472B6" /></a>
-&nbsp;
-<a href="https://instagram.com/eshaaldev"><img src="https://img.shields.io/badge/INSTAGRAM-BE3E7F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-&nbsp;
-<a href="https://eshaal-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-F472B6?style=for-the-badge&logo=vercel&logoColor=0B0F1A" /></a>
-</div>
+Have a project in mind or just want to say hello?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,30:BE3E7F,65:1A1F4B,100:0B0F1A&height=90&section=footer" width="100%" />
+[Email](mailto:eshaalrehamat@gmail.com) · [Portfolio](https://eshaal-dev.vercel.app/) · [LinkedIn](https://linkedin.com/in/eshaaldev) · [Instagram](https://instagram.com/eshaaldev)
+
+
+<sub>Designed & developed by Eshaal.</sub>
+```
