@@ -4,7 +4,7 @@
 
 <br>
 
-### 01 / Toolkit
+### 01 | Toolkit
 
 A collection of technologies I use to design, develop, and build products.
 
@@ -26,7 +26,7 @@ A collection of technologies I use to design, develop, and build products.
 
 <br>
 
-### 02 / Selected Work
+### 02 | Selected Work
 
 Projects built around useful ideas, thoughtful interfaces, and practical problems.
 
@@ -39,6 +39,6 @@ Projects built around useful ideas, thoughtful interfaces, and practical problem
 
 <br>
 
-### 03 / Elsewhere
+### 03 | Elsewhere
 
 [Portfolio](https://github.com/EshaalB) &nbsp;·&nbsp; [Instagram](https://instagram.com/eshaaldev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Email](mailto:eshaalrehamat@gmail.com)
