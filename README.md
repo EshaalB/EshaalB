@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=gimp" alt="GIMP" />
 
-    </td>
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
