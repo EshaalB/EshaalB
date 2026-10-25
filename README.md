@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/terminal.png" alt="Eshaal — Design Engineer, Product Builder & Freelancer" width="100%" />
+  <img src="terminal.png" alt="Eshaal — Design Engineer, Product Builder & Freelancer" width="100%" />
 </div>
 
 <br>
