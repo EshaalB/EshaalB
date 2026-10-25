@@ -21,7 +21,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="./assets/ascii-avatar.png" alt="Eshaal's pastel terminal-style ASCII avatar" width="290">
+      <img src="ascii-avatar.png" alt="Eshaal's avatar" width="290">
     </td>
   </tr>
 </table>
