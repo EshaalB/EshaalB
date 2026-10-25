@@ -1,3 +1,6 @@
+
+<!-- eshaaldev / GitHub Profile -->
+
 <div align="center">
   <img src="terminal.png" alt="Eshaal — Design Engineer, Product Builder & Freelancer" width="100%" />
 </div>
@@ -55,5 +58,19 @@ A few things I've designed and built.
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/EshaalB/EshaalB/output/pacman-contribution-graph.svg"
+      alt="Eshaal's animated GitHub contribution graph"
+      width="100%"
+    />
+  </picture>
 </div>
