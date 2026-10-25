@@ -10,8 +10,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,bootstrap,nodejs,express,mongodb,mysql&theme=dark" alt="Web Development">
 
-
-
 ### Design
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Design Tools">
@@ -24,7 +22,8 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,firebase,supabase&theme=dark" alt="Tools and Platforms">
 ---
-## 02 | Selected Work
+
+## 02 | Latest Highlights
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
@@ -35,6 +34,6 @@
 
 ---
 
-## 03 / Contact Details 
+## 03 / Reach out here  
 
 [Portfolio](https://eshaal-dev.vercel.app/) · [Instagram](https://instagram.com/eshaaldev) · [LinkedIn](https://linkedin.com/in/eshaaldev) · [Email](mailto:eshaalrehamat@gmail.com)
