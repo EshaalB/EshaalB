@@ -19,7 +19,10 @@
     <td width="50%" valign="top">
       <strong>Design</strong>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=7" alt="Figma, Photoshop, Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=gimp" alt="GIMP" />
+
     </td>
   </tr>
   <tr>
