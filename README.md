@@ -1,39 +1,44 @@
-<p align="center">
-  <img src="terminal.png" alt="Eshaal — Design Engineer & Product Builder" width="100%">
-</p>
+<div align="center">
+  <img src="./assets/terminal.png" alt="Eshaal — Design Engineer, Product Builder & Freelancer" width="100%" />
+</div>
 
----
+<br>
 
-## 01 | Tools
+### 01 / Toolkit
 
-### Web Development
+A collection of technologies I use to design, develop, and build products.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,bootstrap,nodejs,express,mongodb,mysql&theme=dark" alt="Web Development">
+**Web Development**
 
-### Design
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,bootstrap,nodejs,express,mongodb,mysql&perline=14)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Design Tools">
+**Design**
 
-### Computer Science
+[![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Programming Languages">
+**Computer Science**
 
-### Tools & Platforms
+[![Computer Science](https://skillicons.dev/icons?i=py,c,cpp)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,firebase,supabase&theme=dark" alt="Tools and Platforms">
----
+**Tools & Platforms**
 
-## 02 | Latest Highlights
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,firebase,supabase)](https://skillicons.dev)
 
-| Project | Description | Technologies |
+<br>
+
+### 02 / Selected Work
+
+Projects built around useful ideas, thoughtful interfaces, and practical problems.
+
+| Project | About | Built With |
 | :--- | :--- | :--- |
-| **EshaalTab** | A customizable new-tab experience for organizing and personalizing everyday browsing. | JavaScript, UI Design |
-| **StudReads** | Convert university timetable files into organized schedules, directly in your browser. | React, PDF.js, SheetJS |
+| **[EshaalTab](https://github.com/EshaalB)** | A customizable new-tab experience for organizing and personalizing everyday browsing. | JavaScript, UI Design |
+| **[StudReads](https://github.com/EshaalB)** | Turn university timetable files into organized schedules, directly in your browser. | React, PDF.js, SheetJS |
 
-[Explore all projects](https://github.com/EshaalB?tab=repositories)
+<sub>More projects are available in my pinned repositories below.</sub>
 
----
+<br>
 
-## 03 / Reach out here  
+### 03 / Elsewhere
 
-[Portfolio](https://eshaal-dev.vercel.app/) · [Instagram](https://instagram.com/eshaaldev) · [LinkedIn](https://linkedin.com/in/eshaaldev) · [Email](mailto:eshaalrehamat@gmail.com)
+[Portfolio](https://github.com/EshaalB) &nbsp;·&nbsp; [Instagram](https://instagram.com/eshaaldev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Email](mailto:eshaalrehamat@gmail.com)
