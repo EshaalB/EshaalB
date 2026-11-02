@@ -4,7 +4,7 @@
 <div align="center">
   <img src="terminal.png" alt="Eshaal — Design Engineer, Product Builder & Freelancer" width="100%" />
 </div>
-
+[Portfolio](https://github.com/EshaalB) &nbsp;·&nbsp; [Instagram](https://instagram.com/eshaaldev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Email](mailto:eshaalrehamat@gmail.com)
 <br>
 
 ### 01 | Toolkit
@@ -49,12 +49,6 @@ A few things I've designed and built.
 | **[StudReads](https://github.com/EshaalB)** | Turn university timetable files into organized schedules directly in your browser. | React, PDF.js, SheetJS |
 
 <sub>Explore more projects through my pinned repositories below.</sub>
-
-<br>
-
-### 03 | Elsewhere
-
-[Portfolio](https://github.com/EshaalB) &nbsp;·&nbsp; [Instagram](https://instagram.com/eshaaldev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Email](mailto:eshaalrehamat@gmail.com)
 
 <br>
 
