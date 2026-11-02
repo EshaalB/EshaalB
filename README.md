@@ -1,10 +1,12 @@
 
-<!-- eshaaldev / GitHub Profile -->
-
 <div align="center">
   <img src="terminal.png" alt="Eshaal — Design Engineer, Product Builder & Freelancer" width="100%" />
+  <br><br>
+  <a href="https://github.com/EshaalB">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/eshaaldev">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:eshaalrehamat@gmail.com">Email</a>
 </div>
-[Portfolio](https://github.com/EshaalB) &nbsp;·&nbsp; [Instagram](https://instagram.com/eshaaldev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Email](mailto:eshaalrehamat@gmail.com)
 <br>
 
 ### 01 | Toolkit
